@@ -2,7 +2,7 @@
 File Manager / General Viewer / Command-Line GUI / Generic Frontend
 
 Originally Developed as a *.dwg format viewer with minimum dependencies on Windows libraries,
-it has grown to be a full file manager or a Generic frontend/GUI to any command-line utility.
+it has grown to be a full file manager or a Generic frontend / GUI to any command-line utility.
 
 It's fully functional however it would need some Refinements, in addition to replacing the *.dwg 
 support library to any open source one (libredwg or libdwg). More "C" open source libraries could 
