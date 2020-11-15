@@ -1,5 +1,5 @@
 # Viewer
-File Manager / General Viewer / Command-Line utility / Generic Frontend
+File Manager / General Viewer / Command-Line GUI / Generic Frontend
 
 Originally Developed as a *.dwg format viewer with minimum dependencies on Windows libraries,
 it has grown to be a full file manager or a Generic frontend/GUI to any command-line utility.
