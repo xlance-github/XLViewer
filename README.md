@@ -8,6 +8,6 @@ It's fully functional however it would need some Refinements, in addition to rep
 support library to any open source one (libredwg or libdwg). More "C" open source libraries could 
 be added to support many formats as needed.
 
-Notse: 
+Notes: 
 - Select any *.dwg file and press F4 to preview it (few versions are supported).
 - Other functions via "F" buttons are self explanatory.
