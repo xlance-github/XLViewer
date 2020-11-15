@@ -1,0 +1,176 @@
+===============================================================================
+| General 
+===============================================================================
+F1		  Help
+
+F2		  Display information about current AutoCad Drawing File
+
+F3		  Switch to full screen mode
+
+F4		  Open selected file in AutoCad. NOTE: If the selected file
+		    is not an AutoCad Drawing File, it will be opened using
+		    whatever the default file association is for the file
+		    type.
+
+F5		  Copies the currently selected files and/or directories 
+		    between File Manager 1 and 2.
+
+F6		  Renames the currently selected files and/or directories.
+
+F7		  Create new directory (active File Manager).
+
+F8		  Deletes the currently selected files and/or directories.
+
+F9		  Display Application Options
+
+F10		  Exit XLance Viewer
+
+F11		  Display attributes and permissions for currently selected
+		    files and/or directories.
+
+F12		  Modify screen resolution. This is available ONLY in non-
+		    full screen mode.
+
+ESC		  Exit full screen mode
+
+SPACE	  	  Select / un-select file or directory
+
+CTRL+A		  Select all files and directories in active File Manager.
+
+CTRL+L		  Toggle AutoCad Drawing File layers.
+
+CTRL+N		  Sort active File Manager's file list by NAME. Ascending and
+		  descending order can be toggled by using this multiple times.
+
+CTRL+T		  Sort active File Manager's file list by TYPE (file or 
+		  directory). Ascending and descending order can be toggled by
+		  using this multiple times.
+		  
+CTRL+S		  Sort active File Manager's file list by SIZE. Ascending and
+		  descending order can be toggled by using this multiple times.
+		  
+CTRL+D		  Sort active File Manager's file list by DATE. Ascending and
+		  descending order can be toggled by using this multiple times.
+		  
+CTRL+X		  Sort active File Manager's file list by EXTENSION. Ascending
+		  and descending order can be toggled by using this multiple times.
+		  
+Shift+Arrow Keys  Multi-select files and/or directories in active File
+		  Manager.
+		  
+*		  Selects files and/or directories according to file spec
+		    (mask). NOTE: All wildcards are supported.
+			
++		  Zoom in (drawing file).
+
+-		  Zoom out (drawing file).
+
+===============================================================================
+| Integrated Command Prompt
+===============================================================================
+
+Supported Commands
+===============================================================================
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+CHCP           Displays or sets the active code page number.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+COPY           Copies one or more files to another location.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKCOMP       Compares the contents of two floppy disks.
+DISKCOPY       Copies the contents of one floppy disk to another.
+DRIVERQUERY    Displays current device driver status and properties.
+ERASE          Deletes one or more files.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension 
+               associations.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MOVE           Moves one or more files from one directory to another 
+               directory.
+PATH           Displays or sets a search path for executable files.
+               correctly to a disk.
+RD             Removes a directory.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+RMDIR          Removes a directory.
+SET            Displays, sets, or removes Windows environment variables.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TYPE           Displays the contents of a text file.
+TREE           Graphically displays the directory structure of a drive or 
+               path.
+VER            Displays the Windows version.
+VOL            Displays a disk volume label and serial number.
+VERIFY         Tells Windows whether to verify that your files are written
+XCOPY          Copies files and directory trees.
+
+CLS            Clears the screen.
+CD             Displays the name of or changes the current directory.
+*CHDIR          Displays the name of or changes the current directory.
+*DOSKEY         Edits command lines, recalls Windows commands, and 
+               creates macros.
+
+CALL           Calls one batch program from another.
+BREAK          Sets or clears extended CTRL+C checking.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+IF             Performs conditional processing in batch programs.
+ECHO           Displays messages, or turns command echoing on or off.
+FOR            Runs a specified command for each file in a set of files.
+GOTO           Directs the Windows command interpreter to a labeled line in 
+               a batch program.
+PAUSE          Suspends processing of a batch file and displays a message.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+
+TITLE          Sets the window title for a CMD.EXE session. See START command
+			   for additional usage.
+EXIT           Quits the CMD.EXE program (command interpreter).
+
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CHKDSK         Checks a disk and displays a status report.
+CMD            Starts a new instance of the Windows command interpreter.
+			   (Use START instead).
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+DATE           Displays or sets the date.
+DISKPART       Displays or configures Disk Partition properties.
+FC             Compares two files or sets of files, and displays the 
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FORMAT         Formats a disk for use with Windows.
+GRAFTABL       Enables Windows to display an extended character set in 
+               graphics mode.
+GPRESULT       Displays Group Policy information for machine or user.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and 
+               directories.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+OPENFILES      Displays files opened by remote users for a file share.
+POPD           Restores the previous value of the current directory saved by 
+               PUSHD.
+PRINT          Prints a text file. (requires PRN device)
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RECOVER        Recovers readable information from a bad or defective disk.
+REPLACE        Replaces files.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+WMIC           Displays WMI information inside interactive command shell.
