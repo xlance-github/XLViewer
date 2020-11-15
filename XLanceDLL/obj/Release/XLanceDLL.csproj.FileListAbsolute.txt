@@ -1,0 +1,15 @@
+E:\RamProjects\XLance\XLV.24\Release\XLanceDLL.dll
+E:\RamProjects\XLance\XLV.24\Release\XLanceDLL.pdb
+E:\RamProjects\XLance\XLV.24\Release\XLanceDLL.tlb
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\ResolveAssemblyReference.cache
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.AddDirectory.resources
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.FirstPageForm.resources
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.Properties.Resources.resources
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.SecondPageForm.resources
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.ShowProcess.resources
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.ThirdPageForm.resources
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.TreeViewColumns.resources
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.ZeroPageForm.resources
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.csproj.GenerateResource.Cache
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.dll
+E:\RamProjects\XLance\XLV.24\XLanceDLL\obj\Release\XLanceDLL.pdb
