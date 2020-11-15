@@ -9,5 +9,5 @@ support library to any open source one (libredwg or libdwg). More "C" open sourc
 be added to support many formats as needed.
 
 Notes: 
-- Select any *.dwg file and press F4 to preview it (few versions are supported).
+- Select any *.dwg file and press F4 to preview it (only few versions are supported).
 - Other functions via "F" buttons are self explanatory.
